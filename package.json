@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Yevhenii2022.github.io/team-proj-js-book-app",
+  "homepage": "https://geek-weekly-4-iwykm3cli-mp2003s-projects.vercel.app/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-proj-js-book-app/"
